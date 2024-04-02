@@ -1,2 +1,3 @@
 # LearningSwift-IOS
-Small Projects i've completed during my Swift ios learning journey!
+
+- Challenges i've completed during my Swift ios learning journey using Codecademy!
